@@ -31,7 +31,7 @@ public class HomeServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		PrintWriter out = response.getWriter();
 		out.println("<h1> Home </h1>");
-		out.println("We are not using JSP here");
+		out.println("We are not using JSP here and also not interested");
 	}
 
 }
